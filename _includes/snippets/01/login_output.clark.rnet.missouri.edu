@@ -1,0 +1,31 @@
+
+The authenticity of host 'clark.rnet.missouri.edu (199.241.166.2)' can't be established.
+ECDSA key fingerprint is SHA256:JRj286Pkqh6aeO5zx1QUkS8un5fpcapmezusceSGhok.
+ECDSA key fingerprint is MD5:99:59:db:b1:3f:18:d0:2c:49:4e:c2:74:86:ac:f7:c6.
+Are you sure you want to continue connecting (yes/no)?  # type "yes"!
+Warning: Permanently added the ECDSA host key for IP address '199.241.166.2' to the list of known hosts.
+yourUsername@clark.rnet.missouri.edu's password:  # no text appears as you enter your password
+Last login: Wed May  1 11:46:33 2019 from ip24-254-105-185.ok.ok.cox.net
+* ********************************************************************
+* Welcome to tc-m610-login-node623.cobalt.lan, CentOS, 7.6.1810
+* Archive of news is available in /etc/motd-archive
+* University of Missouri Division of IT Research Computing Support Services
+*
+* Use of this system is governed by the rules and regulations of the
+* University of Missouri and the University of Missouri System and also
+* by requirements of various granting agencies.
+*
+* Users must be familiar with and abide by the UM System acceptable use
+* policy (CRR 110.005) and the UM System Data Classification System (DCL).
+* http://umsystem.edu/ums/rules/collected_rules/facilities/ch110
+* http://umsystem.edu/ums/is/infosec/classification
+
+* Helpful Links
+* News: http://doit.missouri.edu/research/research-computing-news
+* Support: rcss-support@missouri.edu
+* Announcement list: https://po.missouri.edu/cgi-bin/wa?A0=rcss-announce-l
+* Training: http://docs.rnet.missouri.edu/training
+* Documentation: http://docs.rnet.missouri.edu/
+
+* ********************************************************************
+

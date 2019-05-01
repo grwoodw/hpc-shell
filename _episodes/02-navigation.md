@@ -18,7 +18,7 @@ keypoints:
 - "Hit `tab` to autocomplete whatever you're currently typing."
 ---
 
-At the point in this lesson, we've just logged into the system. Nothing has happened yet, and we're
+At this point in the lesson, we've just logged into the system. Nothing has happened yet, and we're
 not going to be able to do anything until we learn a few basic commands. By the end of this lesson,
 you will know how to "move around" the system and look at what's there.
 
@@ -106,7 +106,7 @@ $ mkdir documents
 ```
 {: .language-bash}
 
-Let's us `ls` again. What do we see?
+Let's use `ls` again. What do we see?
 
 Our folder is there, awesome. What if we wanted to go inside it and do stuff there? We will use the
 `cd` (change directory) command to move around. Let's `cd` into our new documents folder.
@@ -148,8 +148,8 @@ $ cd ~
 ```
 {: .language-bash}
 ```
-bin   cvmfs  etc   initrd  lib64  localscratch  mnt  opt   project  root  sbin     srv  tmp  var
-boot  dev    home  lib     local  media         nix  proc  ram      run   scratch  sys  usr  work
+bin   cluster  dev  group  hs_err_pid4277.log  lib64    media  opt   root  sbin     srv      sys  usr
+boot  data     etc  home   lib                 loc.txt  mnt    proc  run   scratch  storage  tmp  var
 ```
 {: .output}
 
@@ -265,7 +265,7 @@ drwx--S--- 2 yourUsername tc001 4096 Nov 28 09:58 .ssh
 {: .output}
 
 Flags generally precede any arguments passed to a UNIX command. `ls` actually takes an extra
-argument that specifies a directory to look into. When you use flags and arguments together, they
+argument that specifies a directory to look into. When you use flags and arguments together, the
 syntax (how it's supposed to be typed) generally looks something like this:
 
 ```

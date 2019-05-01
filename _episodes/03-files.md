@@ -241,6 +241,8 @@ Let's grab and unpack a set of demo files for use later. To do this, we'll use `
 downloads a file from a link).
 
 ```
+$ mkdir fastqc
+$ cd fastqc
 $ wget {{site.url}}{{site.baseurl}}/files/bash-lesson.tar.gz
 ```
 {: .language-bash}
@@ -299,4 +301,4 @@ too quickly! What are the alternatives? Try all of these out and see which ones 
 - `less file`: Opens a file and display as much as possible on-screen. You can scroll with `Enter`
   or the arrow keys on your keyboard. Press `q` to close the viewer.
 
-Out of `cat`, `head`, `tail, and `less`, which method of reading files is your favourite? Why?
+Out of `cat`, `head`, `tail`, and `less`, which method of reading files is your favourite? Why?
